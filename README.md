@@ -1,0 +1,1 @@
+Shareme is a Pinterest-inspired social media application, focusing on image posting and enhanced performance with advanced React (hooks, refs, Context API). Integrated OAuth for secure authentication and leveraged Sanity for content management.
